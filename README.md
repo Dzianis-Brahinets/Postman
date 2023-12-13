@@ -3,6 +3,7 @@
 # Postman-Collections
 
 Задачей было провести тестирование методами Post, Get, Put, Del на следующем ресурсе: https://petstore.swagger.io/ <br>
+Используя следующую <a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL"> WSDL </a>  создать рабочую коллекцию в Postman, с помощью которых можно определить: валюту страны, полную информацию о стране и информацию о языке конкретной страны.
 Также составить тест-кейсы для тестирования запросов коллекции для 4 методов из блока store.
 <hr>
  <p><strong> Решение  </strong></p> 
