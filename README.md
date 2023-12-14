@@ -1,4 +1,4 @@
-### <img src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/07/Postman.jpg?fit=1200%2C630" title="database" alt="database" width="350" height="150"/> <br>
+### <img src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/07/Postman.jpg?fit=1200%2C630" title="postman" alt="postman" width="350" height="150"/> <br>
 ### Postman-Collections
 <hr>
 Мной было проведено тестирование методами Post, Get, Put, Del на следующем ресурсе: <a href="https://petstore.swagger.io/">https://petstore.swagger.io/</a> <br>
